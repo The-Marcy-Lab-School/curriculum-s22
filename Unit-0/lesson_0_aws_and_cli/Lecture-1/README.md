@@ -18,7 +18,7 @@
 * Communication in every room
 
 ```
-MarcyLab - Enviornment
+MarcyLab - Environment
  |
  |--- S2022-lecture-history
  |   
