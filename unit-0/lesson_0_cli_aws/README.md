@@ -1,4 +1,4 @@
-# Lesson 0:1 - Command Line Interface 
+# Lesson 0:0 - Command Line Interface 
 
 
 ## Warmup Questions ##

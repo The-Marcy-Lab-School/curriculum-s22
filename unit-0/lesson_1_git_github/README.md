@@ -1,4 +1,4 @@
-# Lesson 0:2 - Git and Github
+# Lesson 0:1 - Git and Github
 
 
 ## Warmup Questions ##
