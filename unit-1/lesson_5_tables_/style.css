@@ -1,0 +1,27 @@
+  table{
+      border-collapse: collapse;
+  }
+  thead tr:nth-child(2n){
+      background-color: black;
+  }
+  
+  td {
+    width: 100px;
+    padding: 20px;
+    border: .5px solid black;
+  }
+
+  tr {
+    height: 75px;
+  }
+  
+  tfoot tr td{
+    background-color: beige;
+    text-align: center;
+    
+  }
+  
+  th[scope="row"]{
+      background-color: gray;
+      border: .5px solid black;
+  }
