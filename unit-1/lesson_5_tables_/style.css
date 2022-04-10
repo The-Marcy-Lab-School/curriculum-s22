@@ -1,9 +1,7 @@
   table{
       border-collapse: collapse;
   }
-  thead tr:nth-child(2n){
-      background-color: black;
-  }
+
   
   td {
     width: 100px;
@@ -13,6 +11,7 @@
 
   tr {
     height: 75px;
+    border: 2px solid black;
   }
   
   tfoot tr td{
@@ -21,7 +20,8 @@
     
   }
   
-  th[scope="row"]{
-      background-color: gray;
-      border: .5px solid black;
+  td[scope='row']{
+      background-color: black;
   }
+
+  
