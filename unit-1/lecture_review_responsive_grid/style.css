@@ -1,0 +1,37 @@
+:root {
+  --title: #f559a2; /*hotpink*/
+  --content: #82d7e1; /*babyblue*/
+  --aside: #90cb46; /*green*/
+  --footer: #f4e74d; /*yellow*/
+  
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.container {
+    padding: 5px;
+    height: 100vh;
+  
+}
+
+#title{
+    background-color: var(--title);
+    
+}
+
+#content{
+    background-color: var(--content);
+}
+
+#aside{
+    background-color: var(--aside);
+}
+
+#footer{
+    background-color: var(--footer);
+}

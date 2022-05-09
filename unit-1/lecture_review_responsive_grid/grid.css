@@ -1,0 +1,56 @@
+.container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-template-rows: .25fr 2fr .25fr;
+    grid-template-areas:
+    "title title "
+    "content aside "
+    "footer  aside";
+    grid-gap: 5px;
+    
+}
+
+#title{
+    grid-area: title;
+    text-align: center;
+}
+
+#content{
+    grid-area: content; 
+    text-align: center;
+}
+
+#aside{
+    grid-area: aside; 
+    text-align: center;
+}
+
+#footer{
+    grid-area: footer;
+    text-align: center;
+}
+
+
+@media only screen and (max-width:740px){
+    
+    
+    .container{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: .35fr 3fr .5fr .5fr;
+        grid-template-areas:
+        "title"
+        "content"
+        "aside"
+        "footer";
+        
+    
+}
+
+    #content{
+        text-align: center;
+        padding-top: 25%;
+        font-weight: bolder;
+    }
+    
+}

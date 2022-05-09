@@ -50,6 +50,20 @@ main{
 }
 
 
+.purple-box{
+    width: 445px;
+    height: 125px;
+    position: absolute;
+    top: 500px;
+    right: 0px;
+    border: 10px solid black;
+    padding: 20px;
+    background-color: pink;
+    background-clip: content-box;
+
+}
+
+
 
 
 
