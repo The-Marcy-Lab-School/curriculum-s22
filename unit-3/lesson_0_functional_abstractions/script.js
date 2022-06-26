@@ -1,12 +1,7 @@
-function thisFunction(value){
-    console.log(value)
+function namedCallback(){
+   console.log('namedCallback()');
 }
-
-
-var students = {student1:"Anaya"... }
-
-function students(...name){
-    return name;
+function testFunction(callback){
+   callback;
 }
-
-thisFunction(  students("Anaya", "Chris", "Wayne")   );
+testFunction(namedCallback());

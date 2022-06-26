@@ -107,9 +107,6 @@ We have used callback function before. Could you and your group give an example 
 > According to Fotios Floros from Medium: In Javascript every function is a _first class object_, which means that every function is an Object and can be used like any other object(String, Number etc.). This allows the use of a function as a parameter in another function which is the fundamental idea of callback functions.
 
 
-
-
-
 #### Functional Programming 
 In the functional programming paradigm, functions are first class objects in the language. That means that you can create an "instance" of a function, as have a variable reference that function instance, just like a reference to a String, Map or any other object.
 
@@ -117,3 +114,64 @@ In the functional programming paradigm, functions are first class objects in the
 
 #### Labs: 
 Canvas -> Problem Set: 3-0
+
+
+### Unit 3-0: Functional Abstraction pt.2
+
+
+
+### _1 min silent breathing_ 
+
+<image src="https://miro.medium.com/max/1000/1*rhP98CcG2J_SfygESrsu5g.png" width=200>
+
+#### Communicate Code 
+1. Why is functional abstraction an important part of programming? 
+2. Why are high order functions referred to as "high order"? 
+
+<b>_Take the time to write out you and your partners response. You might be chosen to tell us your response via chromecast._ </b>
+
+___
+
+
+
+
+
+#### Callback Functions 
+
+>According to MDN: A callback function is a function passed into another function as an argument, which is then invoked inside the outer function to complete some kind of routine or action.
+
+```javascript
+function namedCallback(){
+   console.log(“namedCallback()”);
+}
+function testFunction(callback){
+   callback();
+}
+testFunction(namedCallback);
+```
+
+#### Functional programming
+
+_Why functional programming?_
+> As software becomes more and more complex, it is more and more important to structure it well. Well-structured software is easy to write and to debug, and provides a collection of modules that can be reused to reduce future programming costs. We believe that two features of functional languages in particular, higher-order functions and lazy evaluation, can contribute significantly to modularity. As examples, we manipulate lists and trees, program several numerical algorithms, and implement the alpha-beta heuristic (an algorithm from Artificial Intelligence used in game-playing programs). We conclude that since modularity is the key to successful programming, functional programming offers important advantages for software development. - John Hughes, The University, Glasgow
+
+
+#### Understand Code
+
+
+
+* `Array.prototype.forEach()`  -> Noel Fernandez, Gavin Giddings Jr., Ejaz Javeed
+* `Array.prototype.map()` -> Aneika Nanton, Christopher Lopez, Wayne March
+* `Array.prototype.filter()`-> Shadman Chowdhury, Sumaira Khan, Ashe Collier
+* `Array.prototype.reduce()` -> Jose Mazhuvanchery, Delvin Reyes, Aaron Minaya
+* `Array.prototype.sort()` -> Evan Lu, Cristopher Pico Pinos, Farouk Katakpa
+* `Array.prototype.some()` -> Emmanuel Ruiz, Richard Castillo, Celine Youance
+* `Array.prototype.every()` -> Aldair Garcia Angon, Anaya Lambright
+ 
+
+
+
+
+
+
+
