@@ -1,0 +1,27 @@
+  table{
+      border-collapse: collapse;
+  }
+
+  
+  td {
+    width: 100px;
+    padding: 20px;
+    border: .5px solid black;
+  }
+
+  tr {
+    height: 75px;
+    border: 2px solid black;
+  }
+  
+  tfoot tr td{
+    background-color: beige;
+    text-align: center;
+    
+  }
+  
+  td[scope='row']{
+      background-color: black;
+  }
+
+  

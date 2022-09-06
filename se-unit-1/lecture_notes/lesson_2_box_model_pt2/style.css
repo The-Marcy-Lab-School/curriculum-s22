@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: white;
+}
+
+main {
+    background-color: white;
+    width: 1000px;
+    height:580px;
+    margin: auto;
+}
+
+header{
+    background-color: #7F5539;
+    text-align: center;
+    padding: 70px;
+    box-sizing: border-box;
+}
+
+
+
+
+section{
+    background-color: pink;
+}
+
+.article-1{
+    background-color: #E6CCB2;
+}
+
+.article-2{
+    background-color: #DDB892;
+}
+.article-3{
+    background-color: #E6CCB2;
+}
+
+
+.article-5{
+    background-color: #EDE0D4;
+}
+
+#article-5{
+    background-color: #B08968;
+}
+
+
