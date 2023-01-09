@@ -74,9 +74,9 @@ Team:
 
 ### Module 5: Capstone
 
-**Unit 1: Revisting React ** 
 
-Lecture 1: [useState(), useEffect(), forms ](https://us02web.zoom.us/rec/play/-bd6xPK-7cWv5pGbpCtfrQbMtRAlJSmjIMtPEi5HzqLdy-T0EstC1gngQIpomsmj8MwZkPtUgFL8qZI9.QTDx5NRzOBJZREGN?continueMode=true)
+
+Unit React - Lecture 1: [useState(), useEffect(), forms ](https://us02web.zoom.us/rec/play/-bd6xPK-7cWv5pGbpCtfrQbMtRAlJSmjIMtPEi5HzqLdy-T0EstC1gngQIpomsmj8MwZkPtUgFL8qZI9.QTDx5NRzOBJZREGN?continueMode=true)
 
 
 > Timeline: Jan 2nd - March 10th (10 weeks)
