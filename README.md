@@ -74,10 +74,9 @@ Team:
 
 ### Module 5: Capstone
 
-**Unit 9A:** Advanced Topics in Server Side Web Development - Scalability, Microservices, Event-Driven Architecture, Containerization, Scaling Relational Databases, NoSQL Databases
+**Unit 1: Revisting React ** 
 
-**Unit 9B:** Advanced Topics in Frontend Web Development - Accessibility, Advanced React, Server Side Rendering, GraphQL, Typography, Color Theory, Layout
+Lecture 1: [useState(), useEffect(), forms ](https://us02web.zoom.us/rec/play/-bd6xPK-7cWv5pGbpCtfrQbMtRAlJSmjIMtPEi5HzqLdy-T0EstC1gngQIpomsmj8MwZkPtUgFL8qZI9.QTDx5NRzOBJZREGN?continueMode=true)
 
-**Unit 10C:** Practicum - Students selected for practicum will be placed in software engineering internships and apprenticeships at partner companies.
 
 > Timeline: Jan 2nd - March 10th (10 weeks)
