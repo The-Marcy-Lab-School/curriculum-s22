@@ -12,9 +12,12 @@ Team:
 
 ## React Revisit - Capstone
 
-Lecture 1: [useState(), useEffect(), forms ](https://us02web.zoom.us/rec/play/-bd6xPK-7cWv5pGbpCtfrQbMtRAlJSmjIMtPEi5HzqLdy-T0EstC1gngQIpomsmj8MwZkPtUgFL8qZI9.QTDx5NRzOBJZREGN?continueMode=true)<br>
-Lecture 2: [forms](https://drive.google.com/file/d/1j8zamIrVpPiaPyrfNe_Ik9XHVvYDE3gA/view?usp=sharing) <br>
+Lecture 1: [useState(), useEffect(), forms ](https://us02web.zoom.us/rec/play/-bd6xPK-7cWv5pGbpCtfrQbMtRAlJSmjIMtPEi5HzqLdy-T0EstC1gngQIpomsmj8MwZkPtUgFL8qZI9.QTDx5NRzOBJZREGN?continueMode=true)
+
+Lecture 2: [forms](https://drive.google.com/file/d/1j8zamIrVpPiaPyrfNe_Ik9XHVvYDE3gA/view?usp=sharing) 
+
 Lecture 3: [useContext()](https://us02web.zoom.us/rec/play/Mn5BPxnHWDI3zLpHc4DiWzmJEBJaIRQv8rdGNX5bkQP_9zNYtawjC1kCBV_2u2Itzvh9CDyddF_OH3Uz.M5SXK8EHKN_H8pU8?autoplay=true&startTime=1673460852000)
+
 Ann's Lecture: [React Router Code](https://github.com/thuyanduong/React-Router-with-Sankofa) | [Slides](https://docs.google.com/presentation/d/1BNKlFYpgZb90H7eh61g3A6j66zbvDwAyP75FC58ZI7s/edit)
 
 
