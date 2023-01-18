@@ -19,7 +19,7 @@ Lecture 3: [useContext()](https://us02web.zoom.us/rec/play/Mn5BPxnHWDI3zLpHc4DiW
 
 ## Test Driven Development - Capstone
 
-Unit Testing 1: [Lecture Video](https://us02web.zoom.us/rec/play/Mn5BPxnHWDI3zLpHc4DiWzmJEBJaIRQv8rdGNX5bkQP_9zNYtawjC1kCBV_2u2Itzvh9CDyddF_OH3Uz.M5SXK8EHKN_H8pU8?autoplay=true&startTime=1673460852000)  | [Slides](https://docs.google.com/presentation/d/118zyiTZgUJ56BciASaJkFhaz3n_IVl0qVQg8F4J4vP0/edit#slide=id.g1d731887db1_0_0)  | [Lecture Notes](https://gist.github.com/CLeeBenjamin/1ee859c157ce4a621e29e830db25e57a)<br>
+Unit Testing 1: [Lecture Video](https://us02web.zoom.us/rec/play/lE75nnUd85s-XASUvFHVQbaoK9uq538f8wnm58IedpUMRvyyXcQSc_nsMZGFSYfStchDXYYV5zCON476.6WTEqvjF8Uc5bNSI?autoplay=true&startTime=1673982082000)  | [Slides](https://docs.google.com/presentation/d/118zyiTZgUJ56BciASaJkFhaz3n_IVl0qVQg8F4J4vP0/edit#slide=id.g1d731887db1_0_0)  | [Lecture Notes](https://gist.github.com/CLeeBenjamin/1ee859c157ce4a621e29e830db25e57a)<br>
 
 Unit Testing 2: [Lecture Video]()  | [Slides]()  | [Lecture Notes]()<br>
 
