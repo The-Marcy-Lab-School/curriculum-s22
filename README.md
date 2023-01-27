@@ -27,7 +27,7 @@ Technical Blogging: [Mike's Slides](https://docs.google.com/presentation/d/1j-2u
 
 Unit Testing 1: [Lecture Video](https://us02web.zoom.us/rec/play/lE75nnUd85s-XASUvFHVQbaoK9uq538f8wnm58IedpUMRvyyXcQSc_nsMZGFSYfStchDXYYV5zCON476.6WTEqvjF8Uc5bNSI?autoplay=true&startTime=1673982082000)  | [Slides](https://docs.google.com/presentation/d/118zyiTZgUJ56BciASaJkFhaz3n_IVl0qVQg8F4J4vP0/edit#slide=id.g1d731887db1_0_0)  | [Lecture Notes](https://gist.github.com/CLeeBenjamin/1ee859c157ce4a621e29e830db25e57a)<br>
 
-Unit Testing 2: [Slides]((https://docs.google.com/presentation/d/118zyiTZgUJ56BciASaJkFhaz3n_IVl0qVQg8F4J4vP0/edit#slide=id.g1d731887db1_0_0) )  | [Lecture Notes](https://gist.github.com/CLeeBenjamin/e23e61bd24782546141d5f35ed6142e3)<br>
+Unit Testing 2: [Slides](https://docs.google.com/presentation/d/118zyiTZgUJ56BciASaJkFhaz3n_IVl0qVQg8F4J4vP0/edit#slide=id.g1d731887db1_0_0) | [Lecture Notes](https://gist.github.com/CLeeBenjamin/e23e61bd24782546141d5f35ed6142e3)<br>
 
 Unit Testing 3: [Notes](https://gist.github.com/CLeeBenjamin/cdb786990d83bbc8a2b3b82645442bb7)
 ## CSS Framework 
