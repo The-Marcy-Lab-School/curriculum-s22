@@ -32,5 +32,5 @@ Unit Testing 2: [Lecture Video]()  | [Slides]()  | [Lecture Notes]()<br>
 
 ## CSS Framework 
 
-Using Bootstrap in React: [Lecture Video]()  | [Lecture Notes](https://gist.github.com/CLeeBenjamin/2aca1a3cf498f1b0f3f1431ff6620085)<br>
+Using Bootstrap in React: [Lecture Video](https://zoom.us/rec/play/Ex5BhdTWvv34FFTtzi3LmUzZv5E7dmfNIeQpf2DgqoRHOx0t14FB_6O0H505f1tQmDs0i-4q_AJT5hJC.O6NtDU-Rdly6Pcrl?autoplay=true&startTime=1674827978000)  | [Lecture Notes](https://gist.github.com/CLeeBenjamin/2aca1a3cf498f1b0f3f1431ff6620085)<br>
 
