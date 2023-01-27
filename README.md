@@ -30,5 +30,7 @@ Unit Testing 1: [Lecture Video](https://us02web.zoom.us/rec/play/lE75nnUd85s-XAS
 Unit Testing 2: [Lecture Video]()  | [Slides]()  | [Lecture Notes]()<br>
 
 
+## CSS Framework 
 
+Using Bootstrap in React: [Lecture Video]()  | [Lecture Notes](https://gist.github.com/CLeeBenjamin/2aca1a3cf498f1b0f3f1431ff6620085)<br>
 
