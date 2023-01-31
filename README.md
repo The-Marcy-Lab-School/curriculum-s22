@@ -30,7 +30,9 @@ Unit Testing 1: [Lecture Video](https://us02web.zoom.us/rec/play/lE75nnUd85s-XAS
 Unit Testing 2: [Slides](https://docs.google.com/presentation/d/118zyiTZgUJ56BciASaJkFhaz3n_IVl0qVQg8F4J4vP0/edit#slide=id.g1d731887db1_0_0) | [Lecture Notes](https://gist.github.com/CLeeBenjamin/e23e61bd24782546141d5f35ed6142e3)<br>
 
 Unit Testing 3: [Notes](https://gist.github.com/CLeeBenjamin/cdb786990d83bbc8a2b3b82645442bb7)
-## CSS Framework 
+
+## Capstone Project Workshops
 
 Using Bootstrap in React: [Lecture Video](https://zoom.us/rec/play/Ex5BhdTWvv34FFTtzi3LmUzZv5E7dmfNIeQpf2DgqoRHOx0t14FB_6O0H505f1tQmDs0i-4q_AJT5hJC.O6NtDU-Rdly6Pcrl?autoplay=true&startTime=1674827978000)  | [Lecture Notes](https://gist.github.com/CLeeBenjamin/2aca1a3cf498f1b0f3f1431ff6620085)<br>
 
+Migration and Seeds: [Lecture Video](https://drive.google.com/file/d/1zPmw213jAT9NDcK4viJRGZMEaFTYhn5G/view?usp=share_link) | [Lecture Notes](https://gist.github.com/thuyanduong/4d338e473de9a8cfc13a186d678bdd4b)
