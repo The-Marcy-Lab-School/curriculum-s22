@@ -36,3 +36,5 @@ Unit Testing 3: [Notes](https://gist.github.com/CLeeBenjamin/cdb786990d83bbc8a2b
 Using Bootstrap in React: [Lecture Video](https://zoom.us/rec/play/Ex5BhdTWvv34FFTtzi3LmUzZv5E7dmfNIeQpf2DgqoRHOx0t14FB_6O0H505f1tQmDs0i-4q_AJT5hJC.O6NtDU-Rdly6Pcrl?autoplay=true&startTime=1674827978000)  | [Lecture Notes](https://gist.github.com/CLeeBenjamin/2aca1a3cf498f1b0f3f1431ff6620085)<br>
 
 Migration and Seeds: [Lecture Video](https://drive.google.com/file/d/1zPmw213jAT9NDcK4viJRGZMEaFTYhn5G/view?usp=share_link) | [Lecture Notes](https://gist.github.com/thuyanduong/4d338e473de9a8cfc13a186d678bdd4b)
+
+Routers, Controllers, Models: [Lecture Video]() | [Lecture Notes](https://gist.github.com/thuyanduong/34e45f54b220a31aca38c3c32e79a777)
