@@ -37,4 +37,4 @@ Using Bootstrap in React: [Lecture Video](https://zoom.us/rec/play/Ex5BhdTWvv34F
 
 Migration and Seeds: [Lecture Video](https://drive.google.com/file/d/1zPmw213jAT9NDcK4viJRGZMEaFTYhn5G/view?usp=share_link) | [Lecture Notes](https://gist.github.com/thuyanduong/4d338e473de9a8cfc13a186d678bdd4b)
 
-Routers, Controllers, Models: [Lecture Video]() | [Lecture Notes](https://gist.github.com/thuyanduong/34e45f54b220a31aca38c3c32e79a777)
+Routers, Controllers, Models: [Lecture Video](https://drive.google.com/file/d/1TJv8FmrmKmrViiu_Zk5gPwXnN4ZjRUEO/view?usp=share_link) | [Lecture Notes](https://gist.github.com/thuyanduong/34e45f54b220a31aca38c3c32e79a777)
