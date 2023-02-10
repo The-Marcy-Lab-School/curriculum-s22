@@ -40,3 +40,7 @@ Migration and Seeds: [Lecture Video](https://drive.google.com/file/d/1zPmw213jAT
 Routers, Controllers, Models: [Lecture Video](https://drive.google.com/file/d/1TJv8FmrmKmrViiu_Zk5gPwXnN4ZjRUEO/view?usp=share_link) | [Lecture Notes](https://gist.github.com/thuyanduong/34e45f54b220a31aca38c3c32e79a777)
 
 Backend Auth: [Lecture Video](https://drive.google.com/file/d/1r4Y2eWOlRFaUegXdkNuTdZX5hHHwUtl8/view?usp=share_link) | [Lecture Notes](https://gist.github.com/thuyanduong/6f9566b706f68e3b6fef215ce0e8bbfe)
+
+Josh's Guest Lecture: Lecture Video | Repo
+
+Frontend Auth: [Lecture Video](https://us02web.zoom.us/rec/share/5meJW18o9d9DSVTGV-ALQIjPfxcaHccy77PT7JdWx42ZD8Zu1yV9I8JwOJmM5D6o.prXxJ5abwwVYXfW5) | [Lecture Notes](https://gist.github.com/thuyanduong/2cf79b79555d4f69753ee2e6525c771b) 
