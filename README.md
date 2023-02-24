@@ -44,3 +44,5 @@ Backend Auth: [Lecture Video](https://drive.google.com/file/d/1r4Y2eWOlRFaUegXdk
 Josh's Guest Lecture: [Lecture Video](https://us02web.zoom.us/rec/play/z_X7IdRyJpNlx0hFiIeIru0a-LrwNPEAKUabOYUYNysUPCIyBGll7APgqMC8O2mzw3ncbm7LsyGQsUbe.ygn7LxxntR2BfSuH?autoplay=true&startTime=1675961913000) | [Repo](https://github.com/JoshuaKGoldberg/unit-testing-react-with-rtl)
 
 Frontend Auth: [Lecture Video](https://us02web.zoom.us/rec/share/5meJW18o9d9DSVTGV-ALQIjPfxcaHccy77PT7JdWx42ZD8Zu1yV9I8JwOJmM5D6o.prXxJ5abwwVYXfW5) | [Lecture Notes](https://gist.github.com/thuyanduong/2cf79b79555d4f69753ee2e6525c771b) 
+
+Ryan's Guest Lecture - Express Testing: [Lecture Video](https://us02web.zoom.us/rec/play/QsBFu_Uq8iJh9MXL9RaiHgoXJ8bjoNphQ-NN7QJA9noNFsQreztyVS0c4SxUyLLhj83bLi3APvh2WmSy.n44Eew3LqFwX5C6s?autoplay=true&startTime=1677257831000) | [Lecture Slides](https://docs.google.com/presentation/d/1_FXLrfSMQWDlmCY3Iy0Xq-eAKZ2ffzbQ8abXNVF5HPY/edit#slide=id.g20fab34266c_0_5) | [Lecture Code](https://github.com/ryan-the-brodsky/marcy-jest-express/tree/completedVersion) 
