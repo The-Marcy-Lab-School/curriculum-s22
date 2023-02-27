@@ -46,3 +46,7 @@ Josh's Guest Lecture: [Lecture Video](https://us02web.zoom.us/rec/play/z_X7IdRyJ
 Frontend Auth: [Lecture Video](https://us02web.zoom.us/rec/share/5meJW18o9d9DSVTGV-ALQIjPfxcaHccy77PT7JdWx42ZD8Zu1yV9I8JwOJmM5D6o.prXxJ5abwwVYXfW5) | [Lecture Notes](https://gist.github.com/thuyanduong/2cf79b79555d4f69753ee2e6525c771b) 
 
 Ryan's Guest Lecture - Express Testing: [Lecture Video](https://us02web.zoom.us/rec/play/QsBFu_Uq8iJh9MXL9RaiHgoXJ8bjoNphQ-NN7QJA9noNFsQreztyVS0c4SxUyLLhj83bLi3APvh2WmSy.n44Eew3LqFwX5C6s?autoplay=true&startTime=1677257831000) | [Lecture Slides](https://docs.google.com/presentation/d/1_FXLrfSMQWDlmCY3Iy0Xq-eAKZ2ffzbQ8abXNVF5HPY/edit#slide=id.g20fab34266c_0_5) | [Lecture Code](https://github.com/ryan-the-brodsky/marcy-jest-express/tree/completedVersion) 
+
+Deployment PERN, Railway.app, Netlify: [Lecture Video]() | [Lecture Notes](https://gist.github.com/CLeeBenjamin/0786d024a98d0835b6bdd011f9031422) 
+
+
